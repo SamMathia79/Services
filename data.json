@@ -1,0 +1,220 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Modern, responsive websites built with the latest technologies",
+    "imageUrl": "/web-dev.jpg",
+    "features": [
+      "Custom web application development",
+      "Responsive design for all devices",
+      "Progressive Web Apps (PWA)",
+      "Performance optimization",
+      "SEO-friendly architecture",
+      "Modern framework implementation"
+    ],
+    "fullDescription": "Our web development service delivers cutting-edge solutions tailored to your business needs. We utilize the latest technologies and best practices to create fast, secure, and scalable web applications that provide an exceptional user experience.",
+    "technologies": [
+      "React",
+      "Next.js",
+      "Node.js",
+      "TypeScript",
+      "AWS"
+    ],
+    "timeline": "4-12 weeks",
+    "processSteps": [
+      "Requirements gathering and analysis",
+      "Design and prototyping",
+      "Development and testing",
+      "Deployment and optimization",
+      "Maintenance and support"
+    ],
+    "link": "web-development"
+  },
+  {
+    "id": 2,
+    "title": "AI Solutions",
+    "description": "Intelligent systems and machine learning implementations",
+    "imageUrl": "/ai-solutions.jpg",
+    "features": [
+      "Custom AI model development",
+      "Natural Language Processing",
+      "Computer Vision solutions",
+      "Predictive analytics",
+      "Machine Learning integration",
+      "AI-powered automation"
+    ],
+    "fullDescription": "Transform your business with our cutting-edge AI solutions. We develop custom artificial intelligence and machine learning systems that help you automate processes, gain insights, and make data-driven decisions.",
+    "technologies": [
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "OpenAI API",
+      "Azure AI"
+    ],
+    "timeline": "8-16 weeks",
+    "processSteps": [
+      "Data collection and analysis",
+      "Model development and training",
+      "Integration and testing",
+      "Deployment and monitoring",
+      "Continuous improvement"
+    ],
+    "link": "ai-solutions"
+  },
+  {
+    "id": 3,
+    "title": "Cloud Services",
+    "description": "Scalable cloud infrastructure and deployment solutions",
+    "imageUrl": "/cloud-services.jpg",
+    "features": [
+      "Cloud architecture design",
+      "Migration services",
+      "DevOps implementation",
+      "Serverless solutions",
+      "Container orchestration",
+      "Cloud security"
+    ],
+    "fullDescription": "Our cloud services help businesses leverage the power of cloud computing to achieve scalability, reliability, and cost-effectiveness. We provide end-to-end cloud solutions from migration to management.",
+    "technologies": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes"
+    ],
+    "timeline": "6-14 weeks",
+    "processSteps": [
+      "Infrastructure assessment",
+      "Architecture planning",
+      "Migration execution",
+      "Testing and validation",
+      "Monitoring and optimization"
+    ],
+    "link": "cloud-services"
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity Services",
+    "description": "Comprehensive protection for your digital assets and infrastructure.",
+    "imageUrl": "/cybersecurity-services.jpg",
+    "features": [
+      "Vulnerability assessment and penetration testing (VAPT)",
+      "Security information and event management (SIEM)",
+      "Endpoint detection and response (EDR)",
+      "Incident response planning",
+      "Security awareness training",
+      "Compliance and governance"
+    ],
+    "fullDescription": "In an increasingly connected world, cybersecurity is paramount. Our services are designed to safeguard your organization from evolving cyber threats, ensuring business continuity and data integrity. We offer proactive and reactive solutions to build a robust security posture.",
+    "technologies": [
+      "Firewalls",
+      "IDS/IPS",
+      "Antivirus/Malware",
+      "MFA",
+      "Encryption"
+    ],
+    "timeline": "Ongoing / Project-based",
+    "processSteps": [
+      "Security posture assessment",
+      "Threat modeling",
+      "Solution implementation",
+      "Continuous monitoring",
+      "Regular audits and reporting"
+    ],
+    "link": "cybersecurity-services"
+  },
+  {
+    "id": 5,
+    "title": "Data Analytics & Business Intelligence",
+    "description": "Transforming raw data into actionable insights for strategic decision-making.",
+    "imageUrl": "/data-analytics.jpg",
+    "features": [
+      "Data warehousing and ETL",
+      "Predictive analytics",
+      "Data visualization dashboards",
+      "Machine learning model development",
+      "Big data solutions",
+      "Reporting and insights generation"
+    ],
+    "fullDescription": "Unlock the true potential of your data with our data analytics and business intelligence services. We help businesses collect, process, and analyze vast amounts of information to identify trends, predict outcomes, and optimize operations, driving informed decisions.",
+    "technologies": [
+      "SQL",
+      "Python",
+      "R",
+      "Tableau",
+      "Power BI",
+      "Apache Spark",
+      "Hadoop"
+    ],
+    "timeline": "8-20 weeks",
+    "processSteps": [
+      "Data source identification",
+      "Data collection and cleaning",
+      "Model development/Dashboard creation",
+      "Testing and validation",
+      "Deployment and training"
+    ],
+    "link": "data-analytics-business-intelligence"
+  },
+  {
+    "id": 6,
+    "title": "Managed IT Services",
+    "description": "Proactive IT support and management to ensure smooth operations.",
+    "imageUrl": "/managed-it-services.jpg",
+    "features": [
+      "Network monitoring and management",
+      "Help desk support",
+      "Server and infrastructure management",
+      "Data backup and disaster recovery",
+      "Software and hardware procurement",
+      "IT strategy consulting"
+    ],
+    "fullDescription": "Our managed IT services provide comprehensive, proactive support for your IT infrastructure, allowing you to focus on your core business. We take care of your technology needs, from daily operations to strategic planning, ensuring reliability and efficiency.",
+    "technologies": [
+      "ITSM tools",
+      "Remote Monitoring & Management (RMM)",
+      "Ticketing systems",
+      "Cloud platforms"
+    ],
+    "timeline": "Ongoing",
+    "processSteps": [
+      "IT environment assessment",
+      "Service level agreement (SLA) definition",
+      "Onboarding and setup",
+      "Continuous monitoring and support",
+      "Regular performance reviews"
+    ],
+    "link": "managed-it-services"
+  },
+  {
+    "id": 7,
+    "title": "Digital Transformation Consultancy",
+    "description": "Guiding businesses through strategic adoption of digital technologies.",
+    "imageUrl": "/digital-transformation.jpg",
+    "features": [
+      "Process re-engineering",
+      "Technology roadmap development",
+      "Change management",
+      "Innovation strategy",
+      "Customer experience (CX) enhancement",
+      "Ecosystem integration"
+    ],
+    "fullDescription": "Embrace the future with our digital transformation consulting services. We help organizations reimagine their business models, operations, and customer experiences by strategically leveraging emerging technologies, fostering agility and competitive advantage.",
+    "technologies": [
+      "AI/ML",
+      "IoT",
+      "Blockchain",
+      "Cloud computing",
+      "Automation"
+    ],
+    "timeline": "10-24 weeks",
+    "processSteps": [
+      "Current state analysis",
+      "Digital strategy formulation",
+      "Pilot program execution",
+      "Phased implementation",
+      "Performance measurement and iteration"
+    ],
+    "link": "digital-transformation-consultancy"
+  }
+]
