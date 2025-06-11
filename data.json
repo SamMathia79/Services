@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Web Development",
     "description": "Modern, responsive websites built with the latest technologies",
-    "imageUrl": "/web-dev.jpg",
+    "imageUrl": "/web-dev.webp",
     "features": [
       "Custom web application development",
       "Responsive design for all devices",
@@ -34,7 +34,7 @@
     "id": 2,
     "title": "AI Solutions",
     "description": "Intelligent systems and machine learning implementations",
-    "imageUrl": "/ai-solutions.jpg",
+    "imageUrl": "/ai-solutions.webp",
     "features": [
       "Custom AI model development",
       "Natural Language Processing",
@@ -65,7 +65,7 @@
     "id": 3,
     "title": "Cloud Services",
     "description": "Scalable cloud infrastructure and deployment solutions",
-    "imageUrl": "/cloud-services.jpg",
+    "imageUrl": "/cloud-services.webp",
     "features": [
       "Cloud architecture design",
       "Migration services",
@@ -96,7 +96,7 @@
     "id": 4,
     "title": "Cybersecurity Services",
     "description": "Comprehensive protection for your digital assets and infrastructure.",
-    "imageUrl": "/cybersecurity-services.jpg",
+    "imageUrl": "/cybersecurity-services.webp",
     "features": [
       "Vulnerability assessment and penetration testing (VAPT)",
       "Security information and event management (SIEM)",
@@ -127,7 +127,7 @@
     "id": 5,
     "title": "Data Analytics & Business Intelligence",
     "description": "Transforming raw data into actionable insights for strategic decision-making.",
-    "imageUrl": "/data-analytics.jpg",
+    "imageUrl": "/data-analytics.webp",
     "features": [
       "Data warehousing and ETL",
       "Predictive analytics",
@@ -160,7 +160,7 @@
     "id": 6,
     "title": "Managed IT Services",
     "description": "Proactive IT support and management to ensure smooth operations.",
-    "imageUrl": "/managed-it-services.jpg",
+    "imageUrl": "/managed-it-services.webp",
     "features": [
       "Network monitoring and management",
       "Help desk support",
@@ -190,7 +190,7 @@
     "id": 7,
     "title": "Digital Transformation Consultancy",
     "description": "Guiding businesses through strategic adoption of digital technologies.",
-    "imageUrl": "/digital-transformation.jpg",
+    "imageUrl": "/digital-transformation.webp",
     "features": [
       "Process re-engineering",
       "Technology roadmap development",
