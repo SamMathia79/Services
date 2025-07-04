@@ -3,7 +3,7 @@
     "id": 1,
     "title": "AI Based Services",
     "description": "High ROI AI solutions for SMEs and large enterprises, enhancing business development and intelligent decision-making.",
-    "imageUrl": "/ai-services.webp",
+    "imageUrl": "/ai-solutions.webp",
     "features": [
       "Business type analysis and consultation",
       "Hardware requirement assessment (servers, laptops)",
@@ -25,7 +25,7 @@
     "id": 2,
     "title": "Web Development",
     "description": "Custom web platforms from static sites to advanced e-commerce, including domain, deployment, and commissioning.",
-    "imageUrl": "/web-development.webp",
+    "imageUrl": "/web-dev.webp",
     "features": [
       "Out-of-the-box solutions",
       "Partial development services",
@@ -45,7 +45,7 @@
     "id": 3,
     "title": "Business Consultancy",
     "description": "Comprehensive business consultancy and support in various fields through strong partnerships with top regional experts.",
-    "imageUrl": "/business-consultancy.webp",
+    "imageUrl": "/data-analytics.webp",
     "features": [
       "Full analysis of financial business models",
       "Complete and comprehensive business design and identity",
@@ -85,7 +85,7 @@
     "id": 5,
     "title": "Cybersecurity & Data Protection",
     "description": "Robust cybersecurity solutions tailored for the unique challenges faced by businesses in Lebanon and the Middle East.",
-    "imageUrl": "/cybersecurity-middle-east.webp",
+    "imageUrl": "/cybersecurity-services.webp",
     "features": [
       "Threat intelligence and risk assessment specific to regional threats",
       "Data privacy and compliance consulting (e.g., local regulations)",
@@ -106,29 +106,6 @@
   },
   {
     "id": 6,
-    "title": "Localized E-commerce Solutions",
-    "description": "Developing e-commerce platforms optimized for the Middle Eastern market, including local payment gateways and logistics integrations.",
-    "imageUrl": "/ecommerce-middle-east.webp",
-    "features": [
-      "Multi-currency and multi-language support (Arabic, English, French)",
-      "Integration with popular local payment methods (e.g., Cash on Delivery, specific local banks)",
-      "Local shipping and logistics provider integration",
-      "User experience (UX) tailored for regional preferences",
-      "SEO strategies optimized for Middle Eastern search engines",
-      "Social commerce integration (WhatsApp, Instagram shops)"
-    ],
-    "fullDescription": "Unlock the vast potential of the Middle Eastern market with our specialized e-commerce development services. We build robust and user-friendly online stores designed to meet local consumer behaviors and logistical demands. Our solutions prioritize seamless localized payment processing, efficient delivery integrations, and culturally relevant user experiences to maximize your online sales and regional reach.",
-    "benefits": [
-      "Direct access to the growing online consumer base in Lebanon and the Middle East",
-      "Increased sales through localized payment and delivery options",
-      "Improved customer satisfaction with a culturally relevant user experience",
-      "Enhanced brand presence and market penetration in key regional demographics",
-      "Streamlined operations through integrated local logistics solutions"
-    ],
-    "link": "localized-ecommerce-solutions"
-  },
-  {
-    "id": 7,
     "title": "IT Infrastructure & Networking (Resilience Focus)",
     "description": "Building resilient and efficient IT infrastructure and network solutions, crucial for stability in challenging environments.",
     "imageUrl": "/it-infrastructure-resilience.webp",
@@ -151,7 +128,7 @@
     "link": "it-infrastructure-networking-resilience"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "Telecommunications & Connectivity Consulting",
     "description": "Expert guidance on optimizing telecommunications and internet connectivity for businesses in the region.",
     "imageUrl": "/telecom-connectivity.webp",
@@ -172,28 +149,5 @@
       "Access to the latest telecommunication technologies for competitive advantage"
     ],
     "link": "telecom-connectivity-consulting"
-  },
-  {
-    "id": 9,
-    "title": "Solar Energy IT Integration",
-    "description": "Consulting and implementation for integrating solar power solutions to ensure continuous IT operations.",
-    "imageUrl": "/solar-it-integration.webp",
-    "features": [
-      "Solar system sizing and design for IT load",
-      "Battery backup solutions for critical IT infrastructure",
-      "Integration with existing power grids and generators",
-      "Monitoring and management systems for solar-powered IT setups",
-      "Energy efficiency audits for IT equipment",
-      "Customized solutions for power-dependent businesses (e.g., data centers)"
-    ],
-    "fullDescription": "Given the prevalent power challenges in Lebanon and the Middle East, ensuring uninterrupted IT operations is critical. Our service specializes in designing and integrating solar energy solutions specifically for your IT infrastructure. We provide comprehensive studies, precise sizing, and seamless implementation of solar power systems, including battery backups, to guarantee continuous and reliable power for your essential technology assets.",
-    "benefits": [
-      "Uninterrupted IT operations despite grid instability",
-      "Significant reduction in electricity bills and operational costs",
-      "Increased energy independence and reliability",
-      "Reduced carbon footprint and environmental impact",
-      "Long-term sustainability for IT infrastructure and business operations"
-    ],
-    "link": "solar-energy-it-integration"
   }
 ]
