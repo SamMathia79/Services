@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "title": "AI Based Services",
+    "description": "High ROI AI solutions for SMEs and large enterprises, enhancing business development and intelligent decision-making.",
+    "imageUrl": "/ai-services.webp",
+    "features": [
+      "Business type analysis and consultation",
+      "Hardware requirement assessment (servers, laptops)",
+      "Local AI and LLM platform deployment for security and efficiency",
+      "AI model setup and deployment",
+      "Comprehensive training on all features (free crash course available)"
+    ],
+    "fullDescription": "Our AI-based services are designed to deliver a high Return on Investment (ROI) for businesses of all sizes. We leverage artificial intelligence and Large Language Models (LLMs) to provide advanced features and control in business development, implementing calculations and offering data-driven advice tailored to your unique business models and numbers.",
+    "benefits": [
+      "Utilize for Business Development Strategies (BD)",
+      "Optimize current systems",
+      "Cut operational costs",
+      "Provide accurate and error-free calculations and reports",
+      "Various add-on features for HR, Administration, and other departments"
+    ],
+    "link": "ai-based-services"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "description": "Custom web platforms from static sites to advanced e-commerce, including domain, deployment, and commissioning.",
+    "imageUrl": "/web-development.webp",
+    "features": [
+      "Out-of-the-box solutions",
+      "Partial development services",
+      "Development across various platforms",
+      "Consulting based on specific technical requirements",
+      "Domain acquisition, deployment, setup, and commissioning"
+    ],
+    "fullDescription": "We develop diverse web platforms tailored to your specific needs, ranging from simple static sites to sophisticated e-commerce solutions. Our comprehensive service includes domain acquisition (if needed), seamless deployment, meticulous setup, and full commissioning, ensuring your online presence is impactful and functional.",
+    "benefits": [
+      "Super responsive and well-designed websites improve business image and identity, fostering growth",
+      "Provides a gateway for increased validity and business volume",
+      "Establishes another platform for your work, enhancing SEO, marketing efforts, and generating new leads"
+    ],
+    "link": "web-development"
+  },
+  {
+    "id": 3,
+    "title": "Business Consultancy",
+    "description": "Comprehensive business consultancy and support in various fields through strong partnerships with top regional experts.",
+    "imageUrl": "/business-consultancy.webp",
+    "features": [
+      "Full analysis of financial business models",
+      "Complete and comprehensive business design and identity",
+      "Digital Marketing plan and SEO with short to medium-term support options",
+      "Jewelry Designs by top experts with over 40 years of experience",
+      "Hardware procurement including delivery, installation, and setup services",
+      "Analytics and Report Analysis with automation or report template generation"
+    ],
+    "fullDescription": "Leveraging strong partnerships with leading professionals in the region, we offer a wide array of business consultancy and support services. Our expertise covers Accounting and Finance, Graphic Design & Business Identity, SEO & Digital Marketing, Jewelry Design, and many other specialized areas.",
+    "benefits": [
+      "Access bundles of solutions from a single source, eliminating the need to engage multiple providers",
+      "Utilize the best professionals in the region for tier-A services",
+      "Receive comprehensive solutions designed to transform your weaknesses and problems into profitable opportunities"
+    ],
+    "link": "business-consultancy"
+  },
+  {
+    "id": 4,
+    "title": "Technology Consultation and Procurement",
+    "description": "Expedited consultation and provision of suitable IT and hardware solutions for your business needs.",
+    "imageUrl": "/tech-consulting-procurement.webp",
+    "features": [
+      "Quick study of IT business requirements and provision of the right tools for implementation",
+      "Purchase services to fulfill your IT needs",
+      "Analytical study and needs reporting for Solar Systems, backed by real engineering and scientific technical reports",
+      "System integration to connect different modules of your business, where applicable"
+    ],
+    "fullDescription": "We provide expedited consultation tailored to your specific technological needs, delivering comprehensive services and hardware solutions. Our approach ensures you receive the precise tools and equipment to optimize your operations and achieve your business objectives.",
+    "benefits": [
+      "Equips your business with cutting-edge IT tools and equipment, fostering a competitive edge in the market",
+      "Ensures vital investment in technology for business sustainability and growth",
+      "Eliminates potential weaknesses that could bottleneck or adversely affect your entire system"
+    ],
+    "link": "technology-consultation-procurement"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity & Data Protection",
+    "description": "Robust cybersecurity solutions tailored for the unique challenges faced by businesses in Lebanon and the Middle East.",
+    "imageUrl": "/cybersecurity-middle-east.webp",
+    "features": [
+      "Threat intelligence and risk assessment specific to regional threats",
+      "Data privacy and compliance consulting (e.g., local regulations)",
+      "Endpoint security and network defense",
+      "Security awareness training for employees",
+      "Incident response planning and recovery",
+      "Protection against ransomware and cyber-attacks"
+    ],
+    "fullDescription": "In a region where digital threats are evolving rapidly, securing your assets is paramount. Our cybersecurity and data protection services offer specialized strategies and implementations to safeguard businesses in Lebanon and the wider Middle East. We focus on proactive defense, rapid response, and compliance with both international and local data regulations, ensuring your business continuity and reputation are protected.",
+    "benefits": [
+      "Enhanced protection against prevalent regional cyber threats",
+      "Ensured compliance with data privacy regulations relevant to the Middle East",
+      "Minimized risk of data breaches and financial losses",
+      "Increased trust among customers and partners due to strong security posture",
+      "Business continuity even in the face of sophisticated cyber-attacks"
+    ],
+    "link": "cybersecurity-data-protection"
+  },
+  {
+    "id": 6,
+    "title": "Localized E-commerce Solutions",
+    "description": "Developing e-commerce platforms optimized for the Middle Eastern market, including local payment gateways and logistics integrations.",
+    "imageUrl": "/ecommerce-middle-east.webp",
+    "features": [
+      "Multi-currency and multi-language support (Arabic, English, French)",
+      "Integration with popular local payment methods (e.g., Cash on Delivery, specific local banks)",
+      "Local shipping and logistics provider integration",
+      "User experience (UX) tailored for regional preferences",
+      "SEO strategies optimized for Middle Eastern search engines",
+      "Social commerce integration (WhatsApp, Instagram shops)"
+    ],
+    "fullDescription": "Unlock the vast potential of the Middle Eastern market with our specialized e-commerce development services. We build robust and user-friendly online stores designed to meet local consumer behaviors and logistical demands. Our solutions prioritize seamless localized payment processing, efficient delivery integrations, and culturally relevant user experiences to maximize your online sales and regional reach.",
+    "benefits": [
+      "Direct access to the growing online consumer base in Lebanon and the Middle East",
+      "Increased sales through localized payment and delivery options",
+      "Improved customer satisfaction with a culturally relevant user experience",
+      "Enhanced brand presence and market penetration in key regional demographics",
+      "Streamlined operations through integrated local logistics solutions"
+    ],
+    "link": "localized-ecommerce-solutions"
+  },
+  {
+    "id": 7,
+    "title": "IT Infrastructure & Networking (Resilience Focus)",
+    "description": "Building resilient and efficient IT infrastructure and network solutions, crucial for stability in challenging environments.",
+    "imageUrl": "/it-infrastructure-resilience.webp",
+    "features": [
+      "High-availability network design and implementation",
+      "Robust data center setup and optimization",
+      "Redundancy planning and disaster recovery solutions",
+      "Cloud-hybrid infrastructure integration",
+      "Network security and access control",
+      "Power solutions integration (UPS, generators, solar-tie-ins)"
+    ],
+    "fullDescription": "In dynamic environments like Lebanon and the wider Middle East, resilient IT infrastructure is non-negotiable. We design, implement, and manage robust network and server infrastructures engineered for high availability and business continuity. Our focus is on creating systems that can withstand disruptions, ensuring your operations remain stable and secure, even amidst power fluctuations or connectivity challenges.",
+    "benefits": [
+      "Maximized uptime and operational stability for your business",
+      "Protection against power outages and network interruptions",
+      "Enhanced data security and integrity through resilient infrastructure",
+      "Scalable solutions that adapt to growth and evolving business needs",
+      "Reduced operational risks and increased system reliability"
+    ],
+    "link": "it-infrastructure-networking-resilience"
+  },
+  {
+    "id": 8,
+    "title": "Telecommunications & Connectivity Consulting",
+    "description": "Expert guidance on optimizing telecommunications and internet connectivity for businesses in the region.",
+    "imageUrl": "/telecom-connectivity.webp",
+    "features": [
+      "ISP selection and optimization consulting",
+      "Private network setup (VPN, MPLS)",
+      "VoIP and unified communications solutions",
+      "Wireless network design and deployment (Wi-Fi 6, 5G local)",
+      "Cost optimization for telecom services",
+      "Redundant internet link solutions"
+    ],
+    "fullDescription": "Reliable and cost-effective telecommunications are the backbone of modern business. We provide specialized consulting to help companies in Lebanon and the Middle East navigate complex connectivity challenges. From optimizing existing internet services to implementing redundant links and advanced VoIP solutions, we ensure your communication infrastructure is robust, efficient, and tailored to your operational needs.",
+    "benefits": [
+      "Improved internet speed and reliability, enhancing productivity",
+      "Reduced telecom expenses through optimized service selection",
+      "Seamless communication within your organization and with clients",
+      "Enhanced business continuity with redundant connectivity options",
+      "Access to the latest telecommunication technologies for competitive advantage"
+    ],
+    "link": "telecom-connectivity-consulting"
+  },
+  {
+    "id": 9,
+    "title": "Solar Energy IT Integration",
+    "description": "Consulting and implementation for integrating solar power solutions to ensure continuous IT operations.",
+    "imageUrl": "/solar-it-integration.webp",
+    "features": [
+      "Solar system sizing and design for IT load",
+      "Battery backup solutions for critical IT infrastructure",
+      "Integration with existing power grids and generators",
+      "Monitoring and management systems for solar-powered IT setups",
+      "Energy efficiency audits for IT equipment",
+      "Customized solutions for power-dependent businesses (e.g., data centers)"
+    ],
+    "fullDescription": "Given the prevalent power challenges in Lebanon and the Middle East, ensuring uninterrupted IT operations is critical. Our service specializes in designing and integrating solar energy solutions specifically for your IT infrastructure. We provide comprehensive studies, precise sizing, and seamless implementation of solar power systems, including battery backups, to guarantee continuous and reliable power for your essential technology assets.",
+    "benefits": [
+      "Uninterrupted IT operations despite grid instability",
+      "Significant reduction in electricity bills and operational costs",
+      "Increased energy independence and reliability",
+      "Reduced carbon footprint and environmental impact",
+      "Long-term sustainability for IT infrastructure and business operations"
+    ],
+    "link": "solar-energy-it-integration"
+  }
+]
